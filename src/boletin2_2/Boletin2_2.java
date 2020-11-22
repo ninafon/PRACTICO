@@ -20,6 +20,7 @@ public class Boletin2_2 {
         System.out.print("Introduce el lado: ");
         lado=medida.nextFloat();
         System.out.println("El área del cuadrado es: "+lado*lado);
+        System.out.println(" fago un cambio dende netbeans ");
     } 
     
 }
